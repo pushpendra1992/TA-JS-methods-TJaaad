@@ -1,6 +1,7 @@
 let fruits = ['Banana', 'Orange', 'Apple', 'Mango'];
 
 // Add a new element ('Papaya') into fruits array at end
+fruits.push('Papaya');
 
 // Remove the last element from fruits array
 
